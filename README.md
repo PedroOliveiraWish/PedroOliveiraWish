@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Lara!
+# 👋 Olá, eu sou o Pedro Oliveira!
 
 ## 🚀 Sobre mim  
 🎓 **Desenvolvedor Web em formação**  
